@@ -1,4 +1,4 @@
-package soundCork;
+package SoundCork;
 
 import java.applet.AudioClip;
 import java.util.ArrayList;

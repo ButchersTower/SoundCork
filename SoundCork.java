@@ -1,4 +1,4 @@
-package soundCork;
+package SoundCork;
 
 //import javafx.scene.media.Media;
 //import javafx.scene.media.MediaPlayer;

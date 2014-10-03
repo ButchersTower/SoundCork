@@ -1,4 +1,4 @@
-package soundCork;
+package SoundCork;
 
 import java.awt.Color;
 import java.awt.Dimension;

@@ -1,4 +1,4 @@
-package soundCork;
+package SoundCork;
 
 public class VeMa {
 
